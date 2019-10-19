@@ -1,0 +1,15 @@
+{
+  "name": "andybeak/filter_var-demo",
+  "description": "This demonstrates using the filter_var() function in PHP.",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Andrew Beak",
+      "email": "andy.beak@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^7.2"
+  }
+}
